@@ -2,8 +2,17 @@
 
 ## About this fork
 
-This fork is for preservation rather than development. <a href= https://github.com/jarczakpawel/OrcaSlicer-bambulab>The original fork</a> has been voluntarily taken down by the author, following false accusations and legal threats made by Bambu Lab. I encourage you to make your own fork, in order to show Bambu Lab that the community they built their success upon does not quietly accept this kind of abuse. The way I understand it, your fork will still be available whatever happens upstream. They'll have to attack each one separately.
-<br>I also strongly encourage you not to buy anything brand new from Bambu Lab. There are plenty of 3D printer manufacturers out there that don't actively disrespect their users and the FOSS community.
+### Bambu Lab and the user
+
+First of all, I'd like to clarify that I don't judge anyone for using a Bambu printer. I'm on your side, against the company that wants to screw you over. If you're fine with their recent behavior, I firmly but respectfully disagree with you.
+
+### Resisting Bambu Lab's attack on FOSS
+
+This fork is for preservation rather than development. [The original fork](https://github.com/jarczakpawel/OrcaSlicer-bambulab) has been voluntarily taken down by the author, following Bambu Lab's false accusations and unjustified legal threats. By forking this repo, you show Bambu Lab that the community whose work they built their success upon does not quietly accept this kind of abuse. Your fork should still be available whatever happens upstream. They'll have to attack each one separately.<br>
+I also strongly encourage you not to buy anything brand new from Bambu Lab. There are plenty of 3D printer manufacturers out there that don't actively disrespect their users and the FOSS community.
+
+### Another measure of preservation
+I've archived the repo [here](https://archive.org/details/OrcaSlicer-Fuck-Bambu-Lab) in case GitHub plays along with Bambu Lab's bullshit.
 
 
 ## Original README
