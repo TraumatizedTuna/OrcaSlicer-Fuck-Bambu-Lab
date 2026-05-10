@@ -8,7 +8,7 @@ First of all, I'd like to clarify that I don't judge anyone for using a Bambu pr
 
 ### Resisting Bambu Lab's attack on FOSS
 
-This fork is for preservation rather than development. [The original fork](https://github.com/jarczakpawel/OrcaSlicer-bambulab) has been voluntarily taken down by the author, following Bambu Lab's false accusations and unjustified legal threats. By forking this repo, you show Bambu Lab that the community whose work they built their success upon does not quietly accept this kind of abuse. Your fork should still be available whatever happens upstream. They'll have to attack each one separately.<br>
+This fork is for preservation rather than development. [The original fork](https://github.com/jarczakpawel/OrcaSlicer-bambulab) has been voluntarily taken down by the author, following Bambu Lab's false accusations and unjustified legal threats. By forking this repo, you show Bambu Lab that the community whose work they built their success upon does not quietly accept this kind of abuse. [Your fork should still be available whatever happens upstream](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/what-happens-to-forks-when-a-repository-is-deleted-or-changes-visibility#deleting-a-public-repository). They'll have to attack each one separately.<br>
 I also strongly encourage you not to buy anything brand new from Bambu Lab. There are plenty of 3D printer manufacturers out there that don't actively disrespect their users and the FOSS community.
 
 ### Another measure of preservation
